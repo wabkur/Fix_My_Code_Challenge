@@ -1,1 +1,1 @@
-FizzBuzz in Python
+print a square of size
